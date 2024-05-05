@@ -4,6 +4,10 @@
 <div align="center"><img src="DSC03019.JPG" alt="avatar" width="160" height="160"></div>
 <h3 align="center"> I'm a Fullstack Developer 👾🚀</h3>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/{Tung_Nguyen}/count.svg" />
+</p>
 <hr />
 
 <h3 align="left"> Technologies/ Tools I used </h3>
