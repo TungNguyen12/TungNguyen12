@@ -1,5 +1,5 @@
 
-<h1 align="center"> Welkom, my name is Tung 🙋‍♂️, thank for being here! </h1>
+<h1 align="center"> Welkom, my name is Tung 🙋‍♂️, thank for being here!, I'm developing an app for Junction now 🤖</h1>
 
 <div align="center"><img src="DSC03019.JPG" alt="avatar" width="160" height="160"></div>
 <h3 align="center"> I'm a Fullstack Developer 👾🚀</h3>
