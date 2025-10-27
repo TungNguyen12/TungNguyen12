@@ -1,5 +1,5 @@
 
-<h1 align="center"> Welkom, my name is Tung 🙋‍♂️, thank for being here!, I'm developing an app for Junction now 🤖</h1>
+<h1 align="center"> Welkom, my name is Tung 🙋‍♂️, thanks for being here!, I'm developing an app for Junction now 🤖</h1>
 
 <div align="center"><img src="DSC03019.JPG" alt="avatar" width="160" height="160"></div>
 <h3 align="center"> I'm a Fullstack Developer 👾🚀</h3>
@@ -49,7 +49,7 @@
 <hr />
 
 <h3>My thought</h3>
-<p>I love programming since it not only brings full of chanllenges but also it is rewarding with joyful, relief feels when I successfully solve a problem. Moreover, I can see diffrent perspectives from others with code, I want to bring all I have to contribute and create values toward my team, my organization and the end-users </p>
+<p>I love programming since it not only brings full of challenges but also it is rewarding with joyful, relief feels when I successfully solve a problem. Moreover, I can see diffrent perspectives from others with code, I want to bring all I have to contribute and create values toward my team, my organization and the end-users </p>
 
 <h3> 😲 I appreciate that you read this far, it would be my honour to connect with you 🤓</h3>
 
